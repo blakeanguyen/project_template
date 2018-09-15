@@ -1,9 +1,9 @@
-# Research Practicum 2018 – Research Plan (Template)
+# Research Practicum 2018 – Research Plan
 (text between brackets to be removed)
 
-> * Group Name: (be creative!)
-> * Group participants names: (alphabetically sorted by last name)
-> * Project Title: (can be changed later)
+> * Group Name: Mr. Robot
+> * Group participants names: Blake Nguyen and Na'Kiya Russell
+> * Project Title: Situation Awareness (SA) & Usability in Human-Robot Teams
 
 ## Relevant Sources
 
