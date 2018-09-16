@@ -12,7 +12,7 @@
 
 * Barber, D. J., Abich, J., Phillips, E., Talone, A. B., Jentsch, F., & Hill, S. G. (2015). Field Assessment of Multimodal Communication for Dismounted Human-Robot Teams. Proceedings Of The Human Factors And Ergonomics Society Annual Meeting, 59(1), 921.
 
-* Endsley, M. R. (1996). Automation and situation awareness. In R. Parasuraman & M. Mouloua (Eds.), Automation and human performance: Theory and applications, (pp. 163-181). Mahwah, NJ: Lawrence Erlbaum. 
+* Endsley, M. R. (1996). Automation and situation awareness. In R. Parasuraman & M. Mouloua (Eds.), Automation and human performance: Theory and applications, (pp. 163-181). Mahwah, NJ: Lawrence Erlbaum.
 
 * Endsley, M. R. (1995). Toward a theory of situation awareness in dynamic systems. Human Factors, 37(1), 32-64.
 
