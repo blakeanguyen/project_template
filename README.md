@@ -31,9 +31,15 @@ In human-robot teams, there is a significant amount of research regarding human-
 
 Discuss briefly about published matter that technically relates to your proposed work in 4-5 paragraphs.
 
+
+
 ## References 
 
 (Add the bibliographic references you intend to use in format you want)
+
+Barber, D. J., Abich, J., Phillips, E., Talone, A. B., Jentsch, F., & Hill, S. G. (2015). Field Assessment of Multimodal Communication for Dismounted Human-Robot Teams. Proceedings Of The Human Factors And Ergonomics Society Annual Meeting, 59(1), 921. 
+
+
 
 
 
