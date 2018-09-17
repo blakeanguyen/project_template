@@ -1,5 +1,4 @@
 # Research Practicum 2018 – Research Plan
-(text between brackets to be removed)
 
 > * Group Name: Mr. Robot
 > * Group participants names: Blake Nguyen and Na'Kiya Russell
