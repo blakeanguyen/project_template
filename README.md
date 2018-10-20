@@ -1,8 +1,8 @@
 # Research Practicum 2018 – Research Plan
 
-> * Group Name: TESTING!!!
-> * Group participants names: (alphabetically sorted by last name)
-> * Project Title: (can be changed later)
+> * Group Name: Mr. Robot
+> * Group participants names: Blake Nguyen and Na'Kiya Russell
+> * Project Title: Project title is pending
 
 ## General Introduction
 
