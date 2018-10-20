@@ -2,7 +2,7 @@
 
 > * Group Name: Mr. Robot
 > * Group participants names: Blake Nguyen and Na'Kiya Russell
-> * Project Title: Project title is pending
+> * Project Title: Operators perception of reliable and unreliable diagnostic aiding automation
 
 ## General Introduction
 
