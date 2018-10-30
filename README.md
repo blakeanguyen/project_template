@@ -40,12 +40,22 @@ Discuss briefly about published matter that technically relates to your proposed
 
 ## Research Methods
 
+### Study Design
+
+![Screen Shot 2018-10-29 at 10.14.06 PM.png](/Users/BlakeNguyen/Desktop/Screen Shot 2018-10-29 at 10.14.06 PM.png)
+
+
 ## Hypotheses
-1) Novice will consider diagnostic aiding automation to be unreliable when reliability is set at 50% in both safe and dangerous environments. 
+1) Novice will consider diagnostic aiding automation to be unreliable when reliability is set at 50% in both safe and dangerous environments.
 2) Experts will consider diagnostic aiding automation to be reliable only in hostile environments when reliability is set at 50%.
 3) Experts will consider diagnostic aiding automation to be unreliable when reliability is set to 50% in safe environments.
 
 ## Preliminary Framework/Setup
+
+### Previous Research
+
+
+![Screen Shot 2018-10-29 at 10.15.31 PM.png](/Users/BlakeNguyen/Desktop/Screen Shot 2018-10-29 at 10.15.31 PM.png)
 
 ## Plan of Attack for Deliverables
 * Determine our definition of novice and experts based on literature review.
