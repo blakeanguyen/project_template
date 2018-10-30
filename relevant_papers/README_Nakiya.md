@@ -2,15 +2,18 @@
 
 > * Group Name: Mr. Robot
 > * Group participants names: Blake Nguyen and Na’Kiya Russell
-> * Project Title: Project title still pending
+> * Project Title: Human Robot Interaction (HRI): Trust in Diagnostic Aiding Automation
 
 ## Relevant Sources
 
 (3-5 main sources)
 
-* Source 1
-* Source 2
-* [Hawking, S. W. (1974). Black hole explosions?. Nature, 248(5443), 30.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.75.3702&rep=rep1&type=pdf)
+* Faerevaag, C. L., Nguyen, B. A., Jimenez, C. A., Jentsch, F. (2017). Attitudes toward unreliable diagnostic aiding in dangerous task environments. In Proceedings of the Annual Meeting of the Human Factors and Ergonomics Society (Vol. 61). Los Angeles, CA: SAGE Publications.
+* Maltz, M., & Shinar, D. (2003). New alternative methods of analyzing human behavior in cued target acquisition. Human Factors, 45(2), 281-295.
+* Wickens, C. D., & Dixon, S. R. (2007). The benefits of imperfect diagnostic
+automation: A synthesis of the literature. Theoretical Issues in
+Ergonomics Science, 8(3), 201-212.
+
 
 ATTITUDES TOWARD UNRELIABLE DIAGNOSTIC AIDING IN DANGEROUS TASK ENVIRONMENTS Faerevaag, C. L., Nguyen, B. A., Jimenez, C. A., & Jentsch, F. University of Central Florida
 
