@@ -42,7 +42,9 @@ Discuss briefly about published matter that technically relates to your proposed
 
 ### Study Design
 
-![Screen Shot 2018-10-29 at 10.14.06 PM.png](./Screen Shot 2018-10-29 at 10.14.06 PM.png)
+![current study design.png](./current study design.png)
+
+
 
 
 ## Hypotheses
@@ -54,7 +56,8 @@ Discuss briefly about published matter that technically relates to your proposed
 
 ### Previous Research
 
-![Screen Shot 2018-10-29 at 10.15.31 PM.png](./Screen Shot 2018-10-29 at 10.15.31 PM.png)
+
+![previous study design.png](./previous study design.png)
 
 
 
