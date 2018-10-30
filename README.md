@@ -42,7 +42,7 @@ Discuss briefly about published matter that technically relates to your proposed
 
 ### Study Design
 
-![Screen Shot 2018-10-29 at 10.14.06 PM.png](/Users/BlakeNguyen/Desktop/Screen Shot 2018-10-29 at 10.14.06 PM.png)
+![Screen Shot 2018-10-29 at 10.14.06 PM.png](./Screen Shot 2018-10-29 at 10.14.06 PM.png)
 
 
 ## Hypotheses
@@ -54,8 +54,10 @@ Discuss briefly about published matter that technically relates to your proposed
 
 ### Previous Research
 
+![Screen Shot 2018-10-29 at 10.15.31 PM.png](./Screen Shot 2018-10-29 at 10.15.31 PM.png)
 
-![Screen Shot 2018-10-29 at 10.15.31 PM.png](/Users/BlakeNguyen/Desktop/Screen Shot 2018-10-29 at 10.15.31 PM.png)
+
+
 
 ## Plan of Attack for Deliverables
 * Determine our definition of novice and experts based on literature review.
