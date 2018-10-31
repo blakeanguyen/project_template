@@ -23,9 +23,9 @@ In order to further investigate this area of research, we propose conducting a r
 
 
 ## Contributions
-•	We believe our project will contribute to futher advancing research regarding human-robot interaction (HRI).
-•	We believe our project will contribute to the area of research that is interested in reliability in automation across human-robot teams.
-•	We believe our project will provide a better understanding of reliability and willingness to work with automation at various levels of expertise.
+*	We believe our project will contribute to futher advancing research regarding human-robot interaction (HRI).
+*	We believe our project will contribute to the area of research that is interested in reliability in automation across human-robot teams.
+*	We believe our project will provide a better understanding of reliability and willingness to work with automation at various levels of expertise.
 
 
 ## Related Work
@@ -74,17 +74,17 @@ While there were setbacks with automation aids, there have been documented benef
 
 
 ## Research Methods
-##### Participants
+### Participants
 Participants will be determined in the next phase of the project. This particular section will rely on the literature review of levels of expertise, if it is not applicable we may seek alternate guidance on how to collect some date for our Pilot study.
 
 
-##### Study Design
+### Study Design
 ![current study design.png](./current study design.png)
 
 A 2 (Environment: Benign (Safe) or Dangerous) x 2 (Level of Expertise: Novice or Expert) within-subjects study design. Please note that the reliability rate of 50% is not considered a part of the design because it is kept constant at 50%. Our independent variable is environment, which we've determined as being either benign or dangerous. An example of a safe environment would be assisting people who are blind. An example of a dangerous enviroment would be a terriost attack. Based on our literature review on levels of expertise, that will help us determine how we define the differences between a novice and an expert.
 
 
-##### Materials
+### Materials
 The materials for our research study, specifically, our pilot study will consist of stimuli which includes reading materials and pictures describing the purpose, capabilities, reliability and operational environment of our diagnostic aiding automation.
 
 
