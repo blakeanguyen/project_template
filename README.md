@@ -60,7 +60,6 @@ While there were setbacks with automation aids, there have been documented benef
 
 
 
-
 ## Research Questions
 * Is there a difference in perception of reliable and unreliable diagnostic aiding automation in both safe and dangerous environments when comparing levels of expertise (novice and experts)?
 * Do novice consider diagnostic aiding automation to be reliable or unreliable as opposed to an expert operator when automation reliability rate is set to 50% in both benign and hostile environments?
@@ -91,7 +90,7 @@ The materials for our research study, specifically, our pilot study will consist
 
 
 ## Preliminary Framework/Setup
-Our framework is modeled after previously published research on diagnostic aiding automation in various environmental conditions. This framework was setup but does offer some areas of research that can be further improved/advanced. In the previous work, the researchers looked at reliability rate and environments. The previous study design was a 2 (Environment: Benign or Dangerous) x 2 (Reliability: Low or High) between-subjects design. This framework provided us with the basis of our current study design. We were able to change one variable and manipulate the condition to further investigate whether or not levels of expertise play a part in determining if that changes the willingness to use diagnostic aiding automation in the same enviromental conditions as in the previous study.
+Our framework is modeled after previously published research on diagnostic aiding automation in various environmental conditions. This framework was setup but does offer some areas of research that can be further improved/advanced. In the previous work, the researchers looked at reliability rate and environments. The previous study design was a 2 (Environment: Benign or Dangerous) x 2 (Reliability: Low or High) between-subjects design. This framework provided us with the basis of our current study design. We were able to change one variable and manipulate the condition to further investigate whether or not levels of expertise play a part in determining if that changes the willingness to use diagnostic aiding automation in the same enviromental conditions as in the previous study. Please refer to our png files of the study design for both the previous study design and our current study design. (Blake is having issues with the png images so they are not appearing on the Github repository but are in the readme file edit via Haroopad. She'll most likely stop by Dr. Kider's office to troubleshoot the issue were having with images/models/etc.)
 
 
 
