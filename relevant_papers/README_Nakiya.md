@@ -2,7 +2,7 @@
 
 > * Group Name: Mr. Robot
 > * Group participants names: Blake Nguyen and Na’Kiya Russell
-> * Project Title: Human Robot Interaction (HRI): Trust in Diagnostic Aiding Automation
+> * Project Title: Human Robot Interaction (HRI): Trust and Reliance in Diagnostic Aiding Automation
 
 ## Relevant Sources
 
