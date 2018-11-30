@@ -76,6 +76,13 @@ While there were setbacks with automation aids, there have been documented benef
 
 
 
+###### Reliability
+Previous research regarding reliability and HRI was first introduced by Wickens and Dixon (2007). Wickens and Dixon (2007) identified this concept of a reliability threshold of 70%, which was based on their review of studies in which automation performed tasks which humans could perform unaided. In these types of tasks, if reliability falls too low, automation may be perceived as useless, or worse, may negatively affect overall task performance. As a result, human operators are less likely or less willing to rely on automated systems, and instead, execute tasks themselves while disregarding any information coming from an automated system that is perceived as unreliable. Madhavan, Wiegmann, & Lacson (2006) also identified that when automation reliability levels fall below the 70% threshold, performance tends to decrease to levels lower than those of manual task performance alone (i.e., unaided by automation). 
+
+
+
+
+
 ## Research Questions
 * Is there a difference in perception of reliable and unreliable diagnostic aiding automation in both safe and dangerous environments when comparing levels of expertise (novice and experts)?
 * Do novice consider diagnostic aiding automation to be reliable or unreliable as opposed to an expert operator when automation reliability rate is set to 50% in both benign and hostile environments?
