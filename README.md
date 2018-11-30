@@ -1,5 +1,5 @@
 # Research Practicum 2018 – Research Plan
-jeez
+
 > * Group Name: Mr. Robot
 > * Group participants names: Blake Nguyen and Na'Kiya Russell
 > * Project Title: Project Title: Human Robot Interaction (HRI): Trust and Reliance in Diagnostic Aiding Automation
