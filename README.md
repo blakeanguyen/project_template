@@ -73,6 +73,12 @@ While there were setbacks with automation aids, there have been documented benef
 Trust has been identified as an important factor when considering Human-Robot teams. Trust has been defined as the confidence placed or firm belief in the reliability, ability, truth, or strength of someone or something (Google). However, because trust is place onto a thing or a person, it sometimes makes it hard to properly define trust and apply it appropriately. Sandra (2016) stated that “trust varies due to characteristics of both the trustor and trustee. The characteristics that can affect these two entities are: the situation, the environment, and the task. It is important to remember that trustee and trustor trust relationship can be identified as human-human, human-automation, and human-automation trust. Thus, it is clear that the trust amongst these relationships will not be the same. There is a clear distinction made by Sandra (2016) that “reliable is appropriate to describe both human-human and human-robot interactions, terms like good and honest do not necessarily apply the HRI domain.” Altogether, robots are not driven by the same motivations as humans are and are not held accountable in the same manner.
 
 
+
+![trust.png](./trust.png)
+
+
+
+
 ###### Level of Expertise
 Previous research has illustrated that there are several variables that must be considered when determining the difference between a novice and an expert. Berliner (1988), introduced the idea of “The Development if Expertise In Pedagogy”. This idea is a higher level ideology of the theory of skill learning. The skill learning theory contains five stages of skill development: novice, advanced beginner, competent, proficient, and expert. Berliner (1988) state that some of the variation between each stages depends on the years of experience.  In addition to Berliner’s theory of skill learning, Dreyus & Dreyus (1986) described a theoretical framework of the Skill Acquisition Model (SAM). This model allows researcher to document the development of performers as they develop their skills and progress from stage to stage. It is believed this model can be applied to various fields and disciplines where a researcher would like to understand and provide a reference of how to gauge the performer’s performance.The model provides guidance on how to classify individuals when determining between expert and novice. However, it is important to understand variables such as prior knowledge and technology experience can affect the overall status of an individual.
 
