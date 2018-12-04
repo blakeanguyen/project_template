@@ -25,13 +25,14 @@ In order to further investigate this area of research, we propose conducting a r
 
 
 
-
 ## General Introduction
 
 In human robot teams, there has been an increase in the use of automation being used to help teams operate tasks effectively. There any many environments where teams may have the information they need or a disruption of unexpected events occurs where unforeseen events takes place; in either situation it is best to be prepared. One factor we wanted to research is trust in diagnostic aiding automation (robots). There is a type of automation called diagnostic aiding, which involves information acquisition and analysis. When diagnostic aiding falls below 70% reliability, it is seen as not useful, and will negatively affect overall task performance.
 Along with a diagnostic aid, the reliability threshold was formed to measure tasks humans are capable of performing without needing help from such technologies. Furthermore, it is stated that regardless of the reliability threshold, humans will still rely on diagnostic aiding automation in dangerous environments. However, in benign (safe) environmental conditions, the reliability level isn’t as high but it is still noted to be prominent. There is a respective interest in further investigating this area of research as to whether the level of expertise or background knowledge can play a factor in how or when humans decide to trust and rely on diagnostic aiding automation.
 
-(Add a paraphrase of trust and level of expertise here. It shouldn't be too indepth because that material would be placed below in another section)
+Investigating the level of expertise for this research allows for us to gain a better understanding of the background knowledge of the user/participant. We realized that incorporating a user’s of expertise, or prior knowledge that one may have about a particular situation can gives us insight to why (given the environment) a user may rely or trust the automation more or less. For example, it is hypothesized that participants who are novice may trust or reliable on the automation more regardless of the environment (dangerous or safe). However, for experts they may be very knowledge about the automation and may not trust it as much as a novice but would reliable on the automation in dangerous situations. 
+
+Defining what classifies a user as a novice or expert was research by previous studies where skills such as problem solving on your own, the need for direction or context, and decision making was taken into account. Additionally, trust was defined by considering what factors affect trust; rather it be environmental factors, team dynamics, training/knowledge level, and so forth. Aside from viewing factors that affects trust, it is also important to recognize that in certain relationship trust is viewed in the same manner as others.These relationships include: human-human, human-robot, and  human-automation.
 
 
 ## Related Work
@@ -50,7 +51,7 @@ Dixon et al. also concluded that misses had no significant effect on compliance.
 
 
 ###### Signal Detection Theory.
-Wickens and Colcombe (2007) also experimented with the two constructs with a similar method, however, he offered a different outlook on the relationship between the two. Within the scope of signal detection theory, human-automation interaction is affected by the automation’s reliability (discriminate between nonevent and event) and response bias (alert and silence). In this case, Rice was focusing on the automation’s contribution in the dual tasking, and how it affects overall performance. His study supported previous claims of false alarms and misses being detrimental to task performance by lowering reliance and compliance. He explained that while both errors occurs, operators would have to divert their attention to a different task in order to double check their automation aid. This process takes time way from their assigned task and, therefore, reduce efficiency (Wickens and Colcombe, 2007). Participants interestingly continued to depend on their automation aids despite the lowered reliability. As for the automation’s response bias, results showed evidence of auditory alerts being useful for two different concurrent tasks. They’re not easy to ignore, and they require a different perceptual modality. However, different types of alerts in a false alarmed prone setting, degraded performance significantly.
+Wickens and Colcombe (2007) also experimented with the two constructs with a similar method, however, he offered a different outlook on the relationship between the two. Within the scope of signal detection theory, human-automation interaction is affected by the automation’s reliability (discriminate between non event and event) and response bias (alert and silence). In this case, Rice was focusing on the automation’s contribution in the dual tasking, and how it affects overall performance. His study supported previous claims of false alarms and misses being detrimental to task performance by lowering reliance and compliance. He explained that while both errors occurs, operators would have to divert their attention to a different task in order to double check their automation aid. This process takes time way from their assigned task and, therefore, reduce efficiency (Wickens and Colcombe, 2007). Participants interestingly continued to depend on their automation aids despite the lowered reliability. As for the automation’s response bias, results showed evidence of auditory alerts being useful for two different concurrent tasks. They’re not easy to ignore, and they require a different perceptual modality. However, different types of alerts in a false alarmed prone setting, degraded performance significantly.
 
 
 ###### Reliability Disclosure.
@@ -69,18 +70,16 @@ While there were setbacks with automation aids, there have been documented benef
 
 
 ###### Trust
+Trust has been identified as an important factor when considering Human-Robot teams. Trust has been defined as the confidence placed or firm belief in the reliability, ability, truth, or strength of someone or something (Google). However, because trust is place onto a thing or a person, it sometimes makes it hard to properly define trust and apply it appropriately. Sandra (2016) stated that “trust varies due to characteristics of both the trustor and trustee. The characteristics that can affect these two entities are: the situation, the environment, and the task. It is important to remember that trustee and trustor trust relationship can be identified as human-human, human-automation, and human-automation trust. Thus, it is clear that the trust amongst these relationships will not be the same. There is a clear distinction made by Sandra (2016) that “reliable is appropriate to describe both human-human and human-robot interactions, terms like good and honest do not necessarily apply the HRI domain.” Altogether, robots are not driven by the same motivations as humans are and are not held accountable in the same manner.
+
 
 ###### Level of Expertise
-
-(Add a paragraph on trust and a paragraph on levels of expertise here.)
+Previous research has illustrated that there are several variables that must be considered when determining the difference between a novice and an expert. Berliner (1988), introduced the idea of “The Development if Expertise In Pedagogy”. This idea is a higher level ideology of the theory of skill learning. The skill learning theory contains five stages of skill development: novice, advanced beginner, competent, proficient, and expert. Berliner (1988) state that some of the variation between each stages depends on the years of experience.  In addition to Berliner’s theory of skill learning, Dreyus & Dreyus (1986) described a theoretical framework of the Skill Acquisition Model (SAM). This model allows researcher to document the development of performers as they develop their skills and progress from stage to stage. It is believed this model can be applied to various fields and disciplines where a researcher would like to understand and provide a reference of how to gauge the performer’s performance.The model provides guidance on how to classify individuals when determining between expert and novice. However, it is important to understand variables such as prior knowledge and technology experience can affect the overall status of an individual.
 
 
 
 ###### Reliability
-Previous research regarding reliability and HRI was first introduced by Wickens and Dixon (2007). Wickens and Dixon (2007) identified this concept of a reliability threshold of 70%, which was based on their review of studies in which automation performed tasks which humans could perform unaided. In these types of tasks, if reliability falls too low, automation may be perceived as useless, or worse, may negatively affect overall task performance. As a result, human operators are less likely or less willing to rely on automated systems, and instead, execute tasks themselves while disregarding any information coming from an automated system that is perceived as unreliable. Madhavan, Wiegmann, & Lacson (2006) also identified that when automation reliability levels fall below the 70% threshold, performance tends to decrease to levels lower than those of manual task performance alone (i.e., unaided by automation). 
-
-
-
+Previous research regarding reliability and HRI was first introduced by Wickens and Dixon (2007). Wickens and Dixon (2007) identified this concept of a reliability threshold of 70%, which was based on their review of studies in which automation performed tasks which humans could perform unaided. In these types of tasks, if reliability falls too low, automation may be perceived as useless, or worse, may negatively affect overall task performance. As a result, human operators are less likely or less willing to rely on automated systems, and instead, execute tasks themselves while disregarding any information coming from an automated system that is perceived as unreliable. Madhavan, Wiegmann, & Lacson (2006) also identified that when automation reliability levels fall below the 70% threshold, performance tends to decrease to levels lower than those of manual task performance alone (i.e., unaided by automation).
 
 
 ## Research Questions
@@ -90,10 +89,10 @@ Previous research regarding reliability and HRI was first introduced by Wickens 
 
 
 ## Hypotheses
-* H1: It is hypothesized that novice participants in the 50% reliability condition will have lower levels of trust in an autonomous robot than expert participants.
-* H2: It is hypothesized that novice participants in both the safe and dangerous environments will have lower levels of trust in an autonomous robot than expert participants.
-* H3: It is hypothesized that expert participants with both 50% reliability condition and safe environment will have lower levels of trust in an autonomous robot like novice participants.
-* H4: It is hypothesized that expert participants with both 50% reliability condition and dangerous environment will have higher levels of trust in an autonomous robot unlike novice participants.
+H1: It is hypothesized that novice participants in the 50% reliability condition will have lower levels of trust in an autonomous robot than expert participants.
+H2: It is hypothesized that novice participants in both the safe and dangerous environments will have lower levels of trust in an autonomous robot than expert participants.
+H3: It is hypothesized that expert participants with both 50% reliability condition and safe environment will have lower levels of trust in an autonomous robot like novice participants.
+H4: It is hypothesized that expert participants with both 50% reliability condition and dangerous environment will have higher levels of trust in an autonomous robot unlike novice participants.
 
 
 ## Methods
@@ -112,9 +111,10 @@ Our dependent variable is a subjective questionnaire that was developed to deter
 Our framework is modeled after previously published research on diagnostic aiding automation in various environmental conditions. This framework was setup but does offer some areas of research that can be further improved/advanced. In the previous work, the researchers looked at reliability rate and environments. The previous study design was a 2 (Environment: Benign or Dangerous) x 2 (Reliability: Low or High) between-subjects design. This framework provided us with the basis of our current study design. We were able to change one variable and manipulate the condition to further investigate whether or not levels of expertise play a part in determining if that changes the willingness to use diagnostic aiding automation in the same environmental conditions as in the previous study. Please refer to our png files of the study design for both the previous study design and our current study design. (Blake is having issues with the png images so they are not appearing on the Github repository but are in the readme file edit via Haroopad. She'll most likely stop by Dr. Kider's office to troubleshoot the issue were having with images/models/etc.)
 
 #### Model
-(Add model image here)
-(Discuss previous models such as the one Dr. Kider sent us on trust)
-(Discuss our model and explanation of the interactions)
+
+![model.png](./model.png)
+
+The model represents a framework for our research study process. The model includes that ability to identify the level of expertise for the user, what aspect of trust they may have going into the experiment, selects an environment, controlled reliability, and outcome of reliability. These entities of this model will carefully depict how the user moves through the experiment and show what aspects of the entities are considered through this experiment. A previous study broke down the components of trust into different levels, involving individual trust, trustee characteristics, and trust in leadership - a lot of trust related components. However, because the current study involves different multiple components, we tried to incorporate a base for each - demonstrated in the model.
 
 #### Material
 
@@ -123,9 +123,12 @@ Our framework is modeled after previously published research on diagnostic aidin
 
 
 ## Results
-Expected Results
-Data Analysis
-(Add all written material on data analysis (i.e., mean, standard deviation, MANOVA, ANOVA) and why those are important statistics to run.)
+Data Analysis - To analyze the data for our project, we will be using Multivariate Analysis of Variance (MANOVA). MANOVA is an extension of Univariate Analysis of Variance (ANOVA). In ANOVA, statistical differences are gathered from on continuous dependent variable, whereas MANOVA extends this analysis by gathering differences of multiple dependent variables. MANOVA is useful in our because we looking at different dependent variables such as hostile environments, benign environments, novice participant, and expert participant, all on the independent variable of fifty percent reliability.
+
+The MANOVA will be able to compare whether or not combinations (of dependent variables) differs from other groups/combinations. By using this, the MANOVA tests whether or not the independent grouping variable simultaneously explains a statistically significant amount of variance in the dependent variable. The MANOVA testing will be carried out by using Statistical Package for the Social Sciences (SPSS) Statistics. SPSS Statistics is a powerful tool for manipulating and deciphering survey data. Statistical methods such as descriptive statistics, bivariate statistics, numeral outcome, and prediction for identifying groups – each could provide great information to our study.
+
+Furthermore, we are looking to gather data surrounding the idea of at which level of expertise, in what environment would participants feel the need to rely on an automated system with the reliability of fifty percent. Previous studies have research the idea of the effect of varying reliability threshold has on participants in certain environment – which answered the question how much will participants rely. However, in our current study we’d like to control the reliability threshold and gauge the expertise level if the involved participants to see if it effects at what point participants feel the need to rely on the automated system. With varying levels of expertise, different environment, and controlled reliability threshold, the data we have the potential to receive will fill in gaps of previous studies to do not consider.
+
 
 
 
@@ -135,42 +138,61 @@ Data Analysis
 
 
 ## Completed Plan of Action Items
-* Determine our definition of novice and experts based on our literature review.
-* Develop stimuli which includes reading materials and pictures describing the purpose, capabilities, reliability and operational environment of our diagnostic aiding automation.
-* Develop a qualitative questionnaire to assess whether levels of expertise find automation reliable or unreliable. Paper form or Qualtrics online survey engine?
-* Determine how to administer questionnaire to participants
-* Analyze data collected from Pilot Study
-* Complete Github readme files
-* Develop draft UCF IRB protocol for our research study
+* Determined the definitions of novice and experts based on literature review on levels of expertise.
+* Revised stimuli, which includes reading materials and describing the purpose, capabilities, reliability, and operational environments of a fictitious robotic teammate.
+* Revised questionnaire to better assess whether levels of expertise find automation reliable or unreliable.
+* Implemented questionnaire into Qualtrics online survey
+* Developed UCF IRB submission with related study materials such as:
+* UCF IRB Submission
+	- irb_HRP-503 - Protocol
+	- irb_HRP-502 - Informed Consent
+	- irb_HRP-509 - Explanation of Research
+	- Post-Participation Information Form
+* Completed final draft readme file/paper on Github
+
 
 
 
 ## Future Plan of Action Items
+* Before submitting our UCF IRB protocol we need to address these administrative tasks:
+	- Ensure that all personnel involved in data collection have the appropriate training:
+	- CITI training
+	- IRIS account
+	- SONA researcher account
+* Submit UCF IRB protocol and related materials (informed consent, post-participation information form, stimuli, etc.)
+* Train all staff to run data collection for our study
+* Submit SONA ad to gain access to SONA timeslots
+* Complete data collection for the next two semesters
+* Complete data analysis
+* Draft results based on data analysis
+* Submit paper to HFES conference 
+
+
 
 
 
 ## References
-
+* Arnold, Clark, Collier, Leech, & Sutton. (2006). The Differential Use and Effect of Knowledge-Based System Explanations in Novice and Expert Judgment Decisions. MIS Quarterly,30(1), 79. doi:10.2307/25148718
+* Berliner, D. C., Fellow, S., & Hunt, C. W. (1988). The Development of expertise in pedagogy. New Orleans: American Association of Colleges for Teacher Education.
+* Bousfield, T. (n.d.). An Examination of Novice and Expert Teachers' Pedagogy in a Mixed-Reality Simulated Inclusive Secondary Classroom Including a Student Avatar With Autism Spectrum Disorders. Retrieved from https://stars.library.ucf.edu/etd/5559/
+* Burke, C. S., Sims, D. E., Lazzara, E. H., & Salas, E. (2007). Trust in leadership: A multi-level review and integration. The Leadership Quarterly,18(6), 606-632. doi:10.1016/j.leaqua.2007.09.006
 * de Visser, E., & Parasuraman, R. (2011). Adaptive aiding of human-robot teaming: Effects of imperfect automation on performance, trust, and workload. Journal of Cognitive Engineering and Decision Making, 5(2), 209-231.
 *  Dixon, S. R., & Wickens, C. D. (2006). Automation reliability in unmanned aerial vehicle control: A reliance-compliance model of automation dependence in high workload. Human Factors, 48(3), 474-486.
 * Dixon, S. R., Wickens, C. D., & McCarley, J. S. (2007). On the independence of compliance and reliance: Are automation false alarms worse than misses?. Human factors, 49(4), 564-572.
+* Dreyfus, S. E. (2004). The Five-Stage Model of Adult Skill Acquisition. Bulletin of Science, Technology & Society,24(3), 177-181. doi:10.1177/0270467604264992
 * Endsley, M. R. (1995). Toward a theory of situation awareness in dynamic systems. Human Factors, 37(1), 32-64.
 * Endsley, M. R. (1996). Automation and situation awareness. In R. Parasuraman & M. Mouloua (Eds.), Automation and human performance: Theory and applications, (pp. 163-181). Mahwah, NJ: Lawrence Erlbaum.Green, D. M., & Swets, J. A. (1988). Signal Detection Theory and Psychophysics. Los Altos, CA: Peninsula Publishing.
+* Gabriel, J. (n.d.). Guidelines For Twenty-first Century Instructional Design And Technology Use: Technologies' Influence On The Brain. Retrieved from https://stars.library.ucf.edu/etd/4075/
+* Lee, J. D., & Moray, N. (1994). Trust, self-confidence, and operators’ adaptation to automation. International Journal of Human-Computer Studies, 40, 153–184.
 * Madhavan, P., Wiegmann, D. A., & Lacson, F. C. (2006). Automation failures on tasks easily performed by operators undermine trust in automated aids. Human Factors, 48(2), 241-256.
 * Maltz, M., & Shinar, D. (2003). New alternative methods of analyzing human behavior in cued target acquisition. Human Factors, 45(2), 281-295.
+* Meyer, H. (2004). Novice and expert teachers conceptions of learners prior knowledge. Science Education,88(6), 970-983. doi:10.1002/sce.20006
 * Parasuraman, R., Sheridan, T. B., & Wickens, C. D. (2000). A model for types and levels of human interaction with automation. IEEE Transactions on systems, man, and cybernetics-Part A: Systems and Humans, 30(3), 286-297.
 * Parasuraman, R., & Wickens, C.D. (2008). Humans: Still vital after all these years of automation. Human Factors, 50(3), 511-520.
 * Rice, S., & Geels, K. (2010). Using system-wide trust theory to make predictions about dependence on four diagnostic aids. The Journal of general psychology, 137(4), 362-375.
+* Sanders, T. (n.d.). Individual Differences in Trust Toward Robotic Assistants. Retrieved from https://stars.library.ucf.edu/etd/5644/
 * Schuster, D., Jentsch, F., Fincannon, T., & Ososky, S. (2013). The impact of type and level of automation on situation awareness and performance in human-robot interaction. In D. Harris (Ed.), Lecture Notes in Computer Science: Vol. 8019. Engineering Psychology and Cognitive Ergonomics, (pp. 252-260). Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 46, 332-336.
+* Vallverdu, J. (2015). Handbook of research on synthesizing human emotion in intelligent systems and robotics. Hershey, PA: Information Science Reference, an imprint of IGI Global.
 * Wang, L., Jamieson, G. A., & Hollands, J. G. (2009). Trust and reliance on an automated combat identification system. Human factors, 51(3), 281-291.
 * Wickens, C. D., & Dixon, S. R. (2007). The benefits of imperfect diagnostic automation: A synthesis of the literature. Theoretical Issues in Ergonomics Science, 8(3), 201-212.
-
-(Na'Kiya add all of the references you've included here in alphabetical order)
-
-
-
-
-
-
-
-
+* Yagoda, R. E., & Gillan, D. J. (2012). You Want Me to Trust a ROBOT? The Development of a Human–Robot Interaction Trust Scale. International Journal of Social Robotics,4(3), 235-248. doi:10.1007/s12369-012-0144-0
