@@ -168,7 +168,7 @@ Furthermore, we are looking to gather data surrounding the idea of at which leve
 * Complete data collection for the next two semesters
 * Complete data analysis
 * Draft results based on data analysis
-* Submit paper to HFES conference 
+* Submit paper to HFES conference
 
 
 
