@@ -94,9 +94,11 @@ H3: It is hypothesized that expert participants with both 50% reliability condit
 H4: It is hypothesized that expert participants with both 50% reliability condition and dangerous environment will have higher levels of trust in an autonomous robot unlike novice participants.
 
 
+
 ## Methods
 #### Participants
 Participants involved in this study will have to be students who are enrolled in a psychology class at the University of Central Florida and are over the age of 18. Participants will have to demonstrate eligibility (class registration) by signing up for Sona Systems and completing a pre-screening measure provided by Sona Systems (age). This pre-screening measure will screen students for age and gender such that only students who are 18 years old and above will be able to sign up to participate in our study. Researchers will not attempt to recruit persons identified as being part of a vulnerable population (e.g., children, prisoners, mentally disabled persons).
+
 
 
 #### Study Design
@@ -169,7 +171,6 @@ Furthermore, we are looking to gather data surrounding the idea of at which leve
 * Complete data analysis
 * Draft results based on data analysis
 * Submit paper to HFES conference
-
 
 
 
