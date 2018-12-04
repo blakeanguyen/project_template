@@ -88,10 +88,11 @@ Previous research regarding reliability and HRI was first introduced by Wickens 
 
 
 ## Hypotheses
-H1: It is hypothesized that novice participants in the 50% reliability condition will have lower levels of trust in an autonomous robot than expert participants.
-H2: It is hypothesized that novice participants in both the safe and dangerous environments will have lower levels of trust in an autonomous robot than expert participants.
-H3: It is hypothesized that expert participants with both 50% reliability condition and safe environment will have lower levels of trust in an autonomous robot like novice participants.
-H4: It is hypothesized that expert participants with both 50% reliability condition and dangerous environment will have higher levels of trust in an autonomous robot unlike novice participants.
+
+* H1: It is hypothesized that novice participants in the 50% reliability condition will have lower levels of trust in an autonomous robot than expert participants.
+* H2: It is hypothesized that novice participants in both the safe and dangerous environments will have lower levels of trust in an autonomous robot than expert participants.
+* H3: It is hypothesized that expert participants with both 50% reliability condition and safe environment will have lower levels of trust in an autonomous robot like novice participants.
+* H4: It is hypothesized that expert participants with both 50% reliability condition and dangerous environment will have higher levels of trust in an autonomous robot unlike novice participants.
 
 
 
