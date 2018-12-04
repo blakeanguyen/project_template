@@ -11,7 +11,7 @@ The purpose of this study is to explore the reliability threshold and its effect
 
 #### Motivation: Why is this problem interesting and relevant to the research community?
 
-This is an interesting problem because we can understand in what environments, at what level of reliability threshold, and expertise level do humans tend to rely on technology. This can potentially benefit future research by identifying at what level of reliability does technology need to developed at (or near) to make each group (novice or expert) successful in their own right no matter the environment.
+This is an interesting problem because we can understand in what environments, at what level of reliability threshold, and expertise level do humans tend to rely on technology. This can potentially benefit future research by identifying at what level of reliability does technology need to developed at (or near) to make each group (novice or experts) successful in their own right no matter the environment.
 
 #### Proposed Solution: How do we propose to tackle this problem (that has been identified in the previous paragraphs, is interesting to the community, and has yet to be tackled by other researchers?)
 
@@ -30,7 +30,7 @@ In order to further investigate this area of research, we propose conducting a r
 In human robot teams, there has been an increase in the use of automation being used to help teams operate tasks effectively. There any many environments where teams may have the information they need or a disruption of unexpected events occurs where unforeseen events takes place; in either situation it is best to be prepared. One factor we wanted to research is trust in diagnostic aiding automation (robots). There is a type of automation called diagnostic aiding, which involves information acquisition and analysis. When diagnostic aiding falls below 70% reliability, it is seen as not useful, and will negatively affect overall task performance.
 Along with a diagnostic aid, the reliability threshold was formed to measure tasks humans are capable of performing without needing help from such technologies. Furthermore, it is stated that regardless of the reliability threshold, humans will still rely on diagnostic aiding automation in dangerous environments. However, in benign (safe) environmental conditions, the reliability level isn’t as high but it is still noted to be prominent. There is a respective interest in further investigating this area of research as to whether the level of expertise or background knowledge can play a factor in how or when humans decide to trust and rely on diagnostic aiding automation.
 
-Investigating the level of expertise for this research allows for us to gain a better understanding of the background knowledge of the user/participant. We realized that incorporating a user’s of expertise, or prior knowledge that one may have about a particular situation can gives us insight to why (given the environment) a user may rely or trust the automation more or less. For example, it is hypothesized that participants who are novice may trust or reliable on the automation more regardless of the environment (dangerous or safe). However, for experts they may be very knowledge about the automation and may not trust it as much as a novice but would reliable on the automation in dangerous situations. 
+Investigating the level of expertise for this research allows for us to gain a better understanding of the background knowledge of the user/participant. We realized that incorporating a user’s of expertise, or prior knowledge that one may have about a particular situation can gives us insight to why (given the environment) a user may rely or trust the automation more or less. For example, it is hypothesized that participants who are novice may trust or reliable on the automation more regardless of the environment (dangerous or safe). However, for experts they may be very knowledge about the automation and may not trust it as much as a novice but would reliable on the automation in dangerous situations.
 
 Defining what classifies a user as a novice or expert was research by previous studies where skills such as problem solving on your own, the need for direction or context, and decision making was taken into account. Additionally, trust was defined by considering what factors affect trust; rather it be environmental factors, team dynamics, training/knowledge level, and so forth. Aside from viewing factors that affects trust, it is also important to recognize that in certain relationship trust is viewed in the same manner as others.These relationships include: human-human, human-robot, and  human-automation.
 
@@ -77,7 +77,6 @@ Trust has been identified as an important factor when considering Human-Robot te
 Previous research has illustrated that there are several variables that must be considered when determining the difference between a novice and an expert. Berliner (1988), introduced the idea of “The Development if Expertise In Pedagogy”. This idea is a higher level ideology of the theory of skill learning. The skill learning theory contains five stages of skill development: novice, advanced beginner, competent, proficient, and expert. Berliner (1988) state that some of the variation between each stages depends on the years of experience.  In addition to Berliner’s theory of skill learning, Dreyus & Dreyus (1986) described a theoretical framework of the Skill Acquisition Model (SAM). This model allows researcher to document the development of performers as they develop their skills and progress from stage to stage. It is believed this model can be applied to various fields and disciplines where a researcher would like to understand and provide a reference of how to gauge the performer’s performance.The model provides guidance on how to classify individuals when determining between expert and novice. However, it is important to understand variables such as prior knowledge and technology experience can affect the overall status of an individual.
 
 
-
 ###### Reliability
 Previous research regarding reliability and HRI was first introduced by Wickens and Dixon (2007). Wickens and Dixon (2007) identified this concept of a reliability threshold of 70%, which was based on their review of studies in which automation performed tasks which humans could perform unaided. In these types of tasks, if reliability falls too low, automation may be perceived as useless, or worse, may negatively affect overall task performance. As a result, human operators are less likely or less willing to rely on automated systems, and instead, execute tasks themselves while disregarding any information coming from an automated system that is perceived as unreliable. Madhavan, Wiegmann, & Lacson (2006) also identified that when automation reliability levels fall below the 70% threshold, performance tends to decrease to levels lower than those of manual task performance alone (i.e., unaided by automation).
 
@@ -112,13 +111,15 @@ Our dependent variable is a subjective questionnaire that was developed to deter
 
 
 #### Preliminary Framework/Setup
-Our framework is modeled after previously published research on diagnostic aiding automation in various environmental conditions. This framework was setup but does offer some areas of research that can be further improved/advanced. In the previous work, the researchers looked at reliability rate and environments. The previous study design was a 2 (Environment: Benign or Dangerous) x 2 (Reliability: Low or High) between-subjects design. This framework provided us with the basis of our current study design. We were able to change one variable and manipulate the condition to further investigate whether or not levels of expertise play a part in determining if that changes the willingness to use diagnostic aiding automation in the same environmental conditions as in the previous study. Please refer to our png files of the study design for both the previous study design and our current study design. (Blake is having issues with the png images so they are not appearing on the Github repository but are in the readme file edit via Haroopad. She'll most likely stop by Dr. Kider's office to troubleshoot the issue were having with images/models/etc.)
+Our framework is modeled after previously published research on diagnostic aiding automation in various environmental conditions. This framework was setup but does offer some areas of research that can be further improved/advanced. In the previous work, the researchers looked at reliability rate and environments. The previous study design was a 2 (Environment: Benign or Dangerous) x 2 (Reliability: Low or High) between-subjects design. This framework provided us with the basis of our current study design. We were able to change one variable and manipulate the condition to further investigate whether or not levels of expertise play a part in determining if that changes the willingness to use diagnostic aiding automation in the same environmental conditions as in the previous study. Please refer to our png files of the study design for both the previous study design and our current study design.
+
 
 #### Model
 
 ![model.png](./model.png)
 
 The model represents a framework for our research study process. The model includes that ability to identify the level of expertise for the user, what aspect of trust they may have going into the experiment, selects an environment, controlled reliability, and outcome of reliability. These entities of this model will carefully depict how the user moves through the experiment and show what aspects of the entities are considered through this experiment. A previous study broke down the components of trust into different levels, involving individual trust, trustee characteristics, and trust in leadership - a lot of trust related components. However, because the current study involves different multiple components, we tried to incorporate a base for each - demonstrated in the model.
+
 
 #### Material
 
@@ -135,9 +136,7 @@ Furthermore, we are looking to gather data surrounding the idea of at which leve
 
 
 
-
 ## Discussion
-
 
 
 
