@@ -104,8 +104,7 @@ Participants involved in this study will have to be students who are enrolled in
 
 #### Study Design
 
-
-![design.png](./design.png)
+![design1.png](./design1.png)
 
 
 A 2 (Environment: Benign (Safe) or Dangerous) x 2 (Level of Expertise: Novice or Expert) within-subjects study design. Please note that the reliability rate of 50% is not considered a part of the design because it is kept constant at 50%. Our independent variable is environment, which we've determined as being either benign or dangerous. An example of a safe environment would be assisting automation aiding in security systems. An example of a dangerous environment would be automation aiding in terrorist attack. Environments were manipulated by showing participants set of images of areas in which Scanbot is capable of operating autonomously: environments easily accessible to humans (safe), or ones inaccessible to humans (dangerous). Based on our literature review on levels of expertise, that will help us determine how we define the differences between a novice and an expert.
