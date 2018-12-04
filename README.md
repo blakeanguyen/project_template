@@ -158,7 +158,7 @@ Furthermore, we are looking to gather data surrounding the idea of at which leve
 
 ## Future Plan of Action Items
 * Before submitting our UCF IRB protocol we need to address these administrative tasks:
-	- Ensure that all personnel involved in data collection have the appropriate training:
+	- Ensure that all personnel involved in data collection have the appropriate training
 	- CITI training
 	- IRIS account
 	- SONA researcher account
