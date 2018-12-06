@@ -118,22 +118,31 @@ A 2 (Environment: Benign (Safe) or Dangerous) x 2 (Level of Expertise: Novice or
 Our dependent variable is a subjective questionnaire that was developed to determine the likelihood that participants would utilize Scanbot in a search and rescue setting. The questionnaire includes a 6-point semantic differential scale that asks participants to rate Scanbot. We utilized a previously developed questionnaire (Faerevaag, Nguyen, Jimenez, & Jentsch, 2017). This scale includes bipolar adjectives such as unreliable/reliable, untrustworthy/trustworthy, undependable/dependable, unintelligent/intelligent, unpredictable/predictable, incompetent/competent, useless/useful, incapable/capable, and unhelpful/helpful. In previous findings from the questionnaire, they found that a higher score indicated a more positive perception of automation.
 
 
+Subjective Ratings of Autonomous Robots (S-RAR) questionnaire: asks participants to rate robot on nine traits using a 6-point semantic differential scale. Example of bipolar adjectives includes: unreliable/reliable, untrustworthy/trustworthy, and etc. Participants were then asked to choose three scenarios, in which they believed humans working with aid from a robot would be more effective than humans working alone.
+
+
+
 
 #### Preliminary Framework/Setup
 Our framework is modeled after previously published research on diagnostic aiding automation in various environmental conditions. This framework was setup but does offer some areas of research that can be further improved/advanced. In the previous work, the researchers looked at reliability rate and environments. The previous study design was a 2 (Environment: Benign or Dangerous) x 2 (Reliability: Low or High) between-subjects design. This framework provided us with the basis of our current study design. We were able to change one variable and manipulate the condition to further investigate whether or not levels of expertise play a part in determining if that changes the willingness to use diagnostic aiding automation in the same environmental conditions as in the previous study.
 
 
+
 #### Model
-
 ![model.png](./model.png)
-
 The model represents a framework for our research study process. The model includes that ability to identify the level of expertise for the user, what aspect of trust they may have going into the experiment, selects an environment, controlled reliability, and outcome of reliability. These entities of this model will carefully depict how the user moves through the experiment and show what aspects of the entities are considered through this experiment. A previous study broke down the components of trust into different levels, involving individual trust, trustee characteristics, and trust in leadership - a lot of trust related components. However, because the current study involves different multiple components, we tried to incorporate a base for each - demonstrated in the model.
 
 
-#### Material
-
 
 #### Procedure
+Participants involved in this study will have to be students who are enrolled at the University of Central Florida through the  (UCF) SONA Systems. Pre-screening measure will screen students for age and gender such that only students who are 18 years or older are able to sign up to participate in our study. We are interested in collecting 90 participants for our study. Participants will be presented with the following materials:
+* Informed consent
+* Demographics questionnaire
+* Stimuli which includes reading materials and describing the purpose, capabilities, reliability, and operational environments of a fictitious robotic teammate.
+* Revised questionnaire to better assess whether levels of expertise find automation reliable or unreliable.
+* S-RAR questionnaire
+* Post-Participation Information Form
+
 
 
 ## Results
@@ -142,11 +151,6 @@ Data Analysis - To analyze the data for our project, we will be using Multivaria
 The MANOVA will be able to compare whether or not combinations (of dependent variables) differs from other groups/combinations. By using this, the MANOVA tests whether or not the independent grouping variable simultaneously explains a statistically significant amount of variance in the dependent variable. The MANOVA testing will be carried out by using Statistical Package for the Social Sciences (SPSS) Statistics. SPSS Statistics is a powerful tool for manipulating and deciphering survey data. Statistical methods such as descriptive statistics, bivariate statistics, numeral outcome, and prediction for identifying groups – each could provide great information to our study.
 
 Furthermore, we are looking to gather data surrounding the idea of at which level of expertise, in what environment would participants feel the need to rely on an automated system with the reliability of fifty percent. Previous studies have research the idea of the effect of varying reliability threshold has on participants in certain environment – which answered the question how much will participants rely. However, in our current study we’d like to control the reliability threshold and gauge the expertise level if the involved participants to see if it effects at what point participants feel the need to rely on the automated system. With varying levels of expertise, different environment, and controlled reliability threshold, the data we have the potential to receive will fill in gaps of previous studies to do not consider.
-
-
-
-## Discussion
-
 
 
 ## Completed Plan of Action Items
@@ -163,8 +167,6 @@ Furthermore, we are looking to gather data surrounding the idea of at which leve
 * Completed final draft readme file/paper on Github
 
 
-
-
 ## Future Plan of Action Items
 * Before submitting our UCF IRB protocol we need to address these administrative tasks:
 	- Ensure that all personnel involved in data collection have the appropriate training
@@ -179,6 +181,9 @@ Furthermore, we are looking to gather data surrounding the idea of at which leve
 * Draft results based on data analysis
 * Submit paper to HFES conference
 
+
+## Discussion
+If given one to two semester additional semester to work on this project, I believe we could accomplish facilitating the whole experiment. The facilitation would include submitting and completing all proper paper necessary to allow our work to be submitted to the IRB and the HFES Conference at the end of our research. In addition to paperwork submission, we would gather participants for the study, walk them through the experiment, and have complete the testing of the experiment. Once we complete the experiment with the participants, we would then gather the data and make informed decision about our hypotheses and decide what conclusions can be draw from the experiment for potentially future direction for this type of study. As mentioned before, the final steps of this study would be to submit our findings to the HFEs conference.
 
 
 
